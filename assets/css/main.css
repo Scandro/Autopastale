@@ -2266,7 +2266,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("https://images.pexels.com/photos/5692230/pexels-photo-5692230.jpeg");
+		background: url("images/overlay.png"), url("https://images.pexels.com/photos/9553941/pexels-photo-9553941.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
