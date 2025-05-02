@@ -2247,7 +2247,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("https://get.pxhere.com/photo/plant-leaf-flower-food-cooking-produce-color-drink-yellow-pasta-close-up-macro-photography-flavor-fresh-food-italian-food-fresh-pasta-italian-dish-1364174.jpg");
+		background: url("images/overlay.png"), url("https://images.pexels.com/photos/5692230/pexels-photo-5692230.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2257,7 +2257,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("https://images.pexels.com/photos/5692230/pexels-photo-5692230.jpeg");
+		background: url("images/overlay.png"), url("https://get.pxhere.com/photo/plant-leaf-flower-food-cooking-produce-color-drink-yellow-pasta-close-up-macro-photography-flavor-fresh-food-italian-food-fresh-pasta-italian-dish-1364174.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
